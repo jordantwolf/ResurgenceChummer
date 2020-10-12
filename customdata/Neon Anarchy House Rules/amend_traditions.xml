@@ -20,10 +20,6 @@
 <chummer>
   <traditions>
     <tradition>
-      <name>Dark Magic</name>
-      <hide />
-    </tradition>
-    <tradition>
       <name>Elder God</name>
       <hide />
     </tradition>

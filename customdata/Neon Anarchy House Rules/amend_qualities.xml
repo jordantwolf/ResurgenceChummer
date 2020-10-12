@@ -39,10 +39,6 @@
 			<hide />
 		</quality>
 		<quality>
-			<name>Consummate Professional</name>
-			<hide />
-		</quality>
-		<quality>
 			<name>Dead Emotion</name>
 			<hide />
 		</quality>
@@ -65,21 +61,13 @@
 		<quality>
 			<name>Dracoform (Western Drake)</name>
 			<hide />
-		</quality>
-		<quality>
-			<name>Dual-Natured Defender</name>
-			<hide />
-		</quality>			
+		</quality>		
 		<quality>
 			<name>Earther</name>
 			<hide />
 		</quality>
 		<quality>
 			<name>Friends in High Places</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>Groveler</name>
 			<hide />
 		</quality>
 		<quality>
@@ -92,10 +80,6 @@
 		</quality>
 		<quality>
 			<name>Information Auctioneer</name>
-			<hide />
-		</quality>
-		<quality>
-			<name>Latent Dracomorphosis</name>
 			<hide />
 		</quality>
 		<quality>

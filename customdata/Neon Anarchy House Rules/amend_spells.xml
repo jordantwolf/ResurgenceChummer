@@ -11,10 +11,6 @@
 			<descriptor>Indirect, Elemental</descriptor>
 		</spell>
 		<spell>
-			<name>Convert Blood to Ichor</name>
-			<hide />
-		</spell>
-		<spell>
 			<name>Convince</name>
 			<hide />
 		</spell>
